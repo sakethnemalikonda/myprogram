@@ -1,0 +1,11 @@
+<html>
+    <head>
+        <title> my git </title>
+    </head>
+    <body>
+        <p>
+            Git is open source software maintained by Linux, while Microsoft owns GitHub.<br>
+            Git is an open-source platform – free to use, modify, and distribute.
+        </p>
+    </body>
+</html>
