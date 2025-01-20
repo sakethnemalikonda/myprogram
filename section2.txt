@@ -1,0 +1,10 @@
+<html>
+    <head>
+        <title> my git </title>
+    </head>
+    <body>
+        <p>
+            GitHub follows a specific pricing model. It offers a free plan with all the core GitHub features for individuals.
+        </p>
+    </body>
+</html>
